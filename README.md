@@ -1,11 +1,8 @@
 
 # Event_HDR_Dataset
-Real-time HDR video fusion with events and frames. Released dataset.
-Download from [google drive](https://drive.google.com/drive/folders/13p4EpDHO1oHKcUhPM0wUvVc_7u0fVzfU?usp=sharing)
-Codes in the paper is also avaliable: [event_direct_fusion]()
-
-## Citation
-Please cite our paper if you find this dataset useful.
+Real-time HDR video fusion with events and frames. Released dataset.  
+Download from [google drive](https://drive.google.com/drive/folders/13p4EpDHO1oHKcUhPM0wUvVc_7u0fVzfU?usp=sharing)  
+Codes in the paper is also avaliable (released after paper accepted): [EvRe-HDR](https://github.com/LarryDong/EvRe-HDR)
 
 
 ## Recording Platform
